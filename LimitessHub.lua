@@ -3,7 +3,7 @@
 -- Game: Fling Things and People (6961824067)
 
 local VERSION = "12.0 XENO"
-local OWNER = "YourUsernameHere" -- ⚠️ MUDE ISSO
+local OWNER = "TheSix2b" -- ⚠️ MUDE ISSO
 
 -- ========================================
 -- XENO COMPATIBILITY CHECK
@@ -1079,3 +1079,4 @@ task.spawn(function()
         })
     end
 end)
+
